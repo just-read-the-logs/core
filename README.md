@@ -1,4 +1,4 @@
-# 🚀 Core Services
+# 🚀 🌈 Core Services
 
 <div align="center">
 
@@ -165,4 +165,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [⭐ Star us on GitHub](https://github.com/just-read-the-logs/core) • [🐦 Follow us on Twitter](https://twitter.com/justreadthelogs) • [🌐 Visit our website](https://just-read-the-logs.com)
 
 </div>
-
