@@ -142,6 +142,7 @@ Because we actually **just read the logs**:
 - 🛡️ **Secure** - Security built-in, not bolted-on
 - 🔍 **Observable** - Full visibility into system behavior
 - 🤝 **Community Driven** - Open source and welcoming
+- 🚀 **Continuously Improved** - Regular updates and enhancements
 
 ## 📞 Support
 
@@ -165,4 +166,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [⭐ Star us on GitHub](https://github.com/just-read-the-logs/core) • [🐦 Follow us on Twitter](https://twitter.com/justreadthelogs) • [🌐 Visit our website](https://just-read-the-logs.com)
 
 </div>
-
